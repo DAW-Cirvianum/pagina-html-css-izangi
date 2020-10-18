@@ -1,0 +1,43 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    background-color: brown;
+    
+}
+
+nav{
+    width: 95%;
+    display: flex;
+    margin: 2%;
+    background-color: blueviolet;
+}
+
+nav ul li{
+    display: flex;
+    background-color: aqua;
+    padding :20px;
+}
+
+nav ul{
+    display: flex;
+}
+
+article{
+    background-color: darkseagreen;
+    float: left;
+    width: 31%;
+    margin: 1%;
+}
+
+footer{
+    clear:both;
+    background-color: darkorange;
+}
+
+img{
+width: 100%;
+}
